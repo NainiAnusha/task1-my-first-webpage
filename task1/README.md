@@ -20,19 +20,13 @@ In this task, I created a simple webpage using *HTML, CSS, and JavaScript*.
 2. Open index.html in your web browser.  
 3. Explore the styled webpage and click the button to see JavaScript in action.  
 
----
 
-## 📸 Screenshot
-(Add a screenshot of your webpage here after running it locally)
 
----
-
-## 🔗 Live Demo
-(If you host this project using GitHub Pages, Netlify, or Vercel, add the live link here)
 
 ---
 
 ## 🏆 Internship Info
 This project is part of *Task 1 - Basics of Web Development* under the 45-Day Internship Program in *HTML, CSS & JavaScript* at *ApexPlanet Software Pvt. Ltd.*
+
 
 ---
